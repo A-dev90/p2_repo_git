@@ -14,6 +14,7 @@ int main(int argc, char const *argv[])
         }
 
     } while (n <= 0);
+    printf("FINALMENTE\n");
     printf("Los elementos de Fibonacci son: \n");
     for (i = 1; i <= n; i += 1)
     {
